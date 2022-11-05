@@ -1,1 +1,2 @@
-# lesson_6_hw
+Lesson Git
+Git/Github basic
